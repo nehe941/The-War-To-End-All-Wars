@@ -1,0 +1,22 @@
+state={
+	id=800
+	name="STATE_800"
+
+	history={
+		owner = AHE
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = ROM
+		add_core_of = AHE
+
+	}
+
+	provinces={
+		6761 11689 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,26 @@
+state={
+	id=799
+	name="STATE_799"
+	resources={
+		chromium=10.000
+	}
+
+	history={
+		owner = AHE
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = AHE
+
+	}
+
+
+	provinces={
+		9821 
+	}
+	manpower=57210
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
